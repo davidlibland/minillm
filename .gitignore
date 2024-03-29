@@ -161,6 +161,7 @@ cython_debug/
 
 # data:
 input.txt
+output.txt
 
 # notebooks:
 *.ipynb
